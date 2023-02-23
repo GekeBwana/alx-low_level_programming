@@ -7,6 +7,6 @@
  * Desc: Prototype for all functions are in the header
  */
 
-int_putchar(char c);
+int _putchar(char c);
 
 #endif
