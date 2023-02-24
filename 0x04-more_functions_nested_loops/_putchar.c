@@ -4,7 +4,7 @@
  * _putchar - writes the character c to standout in this program
  * @c: The character to print
  *
- * Return: 1 on success, 0 if otherwise
+ * Return: On success 1
  * On error, -1 is returned, and errno is set appropriately
  *
  */
